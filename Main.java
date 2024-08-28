@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 // test comment for commit test
+// another test comment for feature branch test
 
 public class Main {
     public static void main(String[] args) {
